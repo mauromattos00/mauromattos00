@@ -16,8 +16,6 @@ Busco contribuir com a comunidade Open Source o máximo que posso pois eu acredi
 
 Você pode me encontrar nas redes sociais abaixo! Sinta-se livre para falar comigo quando quiser 👊👊
 
-----
-
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mauromattos_)](https://twitter.com/mauromattos_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-mattos)](https://www.linkedin.com/in/mauro-mattos)
 ![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/mauromattos00)

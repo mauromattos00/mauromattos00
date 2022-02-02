@@ -1,6 +1,6 @@
 ### Hello There! 😁 🇺🇸
 
-My name is Mauro and I'm from Rio de Janeiro - Brazil. I'm a Front End Developer currently I work at [TOTVS](https://en.totvs.com/).
+My name is Mauro and I'm from Rio de Janeiro - Brazil. I'm a Front End Developer currently I work at Zup Innovation.
 
 I aim to contribute to the Open Source Community as much as I can because I believe that spreading knowledge is what help us to evolve. **Share your knowledge!**
 
@@ -10,7 +10,7 @@ You can find me on the social networks below, just hit me up 👊👊
 
 ### Olá! 😁 🇧🇷
 
-Meu nome é Mauro e eu sou do Rio de Janeiro, Brasil. Sou Desenvolvedor Front End e atualmente eu trabalho na [TOTVS](https://totvs.com/).
+Meu nome é Mauro e eu sou do Rio de Janeiro, Brasil. Sou Desenvolvedor Front End e atualmente eu trabalho na Zup Innovation.
 
 Busco contribuir com a comunidade Open Source o máximo que posso pois eu acredito que compartilhar conhecimento é o que nos ajuda a evoluir. **Compartilhe conhecimento!**
 
